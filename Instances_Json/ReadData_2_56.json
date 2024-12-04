@@ -1,0 +1,16 @@
+{
+"pallet":
+	[{
+	"Code":"P",
+	"Id":2,
+	"Length":1200,
+	"Width":800,
+	"MaxHeight":2000,
+	"Layers":3}],
+"items":
+	[{
+	"Id":56,
+	"Length":248,
+	"Width":167,
+	"Height":306}]
+}
